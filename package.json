@@ -3,7 +3,7 @@
     "displayName": "Language Setup",
     "description": "Get your VS Code development environment ready in minutes by detecting project language, checking tools, installing dependencies, and applying recommended settings.",
     "version": "0.0.1",
-    "publisher": "Ayushi_Developer",
+    "publisher": "Ayushi40804",
     "repository": {
         "type": "git",
         "url": "https://github.com/Ayushi40804/Language-Setup"
